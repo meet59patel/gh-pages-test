@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Join the chat at https://gitter.im/gh-auto-pr-test/main-room](https://badges.gitter.im/gh-auto-pr-test/main-room.svg)](https://gitter.im/gh-auto-pr-test/main-room?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In the project directory, you can run:
 
 ### `yarn start`
