@@ -1,4 +1,4 @@
-Git experiment labs here! Test your hooks :P
+Git experiment labs here! Test your hooks 👨🏻‍💻
 
 ## Available Scripts
 
